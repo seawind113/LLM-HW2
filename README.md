@@ -15,8 +15,6 @@ This assignment is part of the coursework for the Large Language Model course. I
   - [2.1 Standard RAG Pipeline](#21-standard-rag-pipeline)
   - [2.2 Multi-Query RAG](#22-multi-query-rag)
   - [2.3 RAG Fusion with Reciprocal Rank Fusion](#23-rag-fusion-with-reciprocal-rank-fusion)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ---
 
