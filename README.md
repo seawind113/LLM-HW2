@@ -1,4 +1,4 @@
-# LLM Homework 2: Text Summarization and RAG Systems
+# LLM : Text Summarization and RAG Systems
 
 This assignment is part of the coursework for the Large Language Model course. It includes implementations and experiments on **Text Summarization** using T5-small and **Retrieval-Augmented Generation (RAG)** systems using LangChain and LLaMA3.2 3B. The work is split into two main parts as per the assignment instructions.
 
